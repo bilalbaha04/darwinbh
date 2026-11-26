@@ -70,6 +70,12 @@ I am particularly interested in how software works and in understanding systems 
 | **Applications** | Graphics and rendering, web technologies, software architecture |
 | **Collaboration** | Peer learning and team projects |
 
+## 3D Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/darwinbh/darwinbh/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+</div>
+
 ## GitHub Statistics
 
 <div align="center">
