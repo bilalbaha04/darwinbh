@@ -35,7 +35,6 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 <img src="https://www.readmecodegen.com/api/social-icon?name=database&animation=glow" alt="database" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=vscode&animation=glow" alt="vscode" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=thealgorithms&animation=glow" alt="thealgorithms" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=vscode&size=96&animation=glow" alt="vscode" />
 
 **Programming Languages**
 - C
