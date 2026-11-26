@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Neji 👋
+# Hey, I'm Neji 🐺
 
 ### Software Engineering Student @ 1337 | 42 Network
 
