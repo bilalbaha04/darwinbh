@@ -35,6 +35,11 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 <img src="https://www.readmecodegen.com/api/social-icon?name=database&animation=glow" alt="database" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=vscode&animation=glow" alt="vscode" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=thealgorithms&animation=glow" alt="thealgorithms" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=glow" alt="git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=refinedgithub&size=96&animation=glow" alt="refinedgithub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=42&size=32&animation=glow&color=%233b82f6" alt="42" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&theme=dark&animation=glow&color=%233b82f6" alt="cplusplus" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=code&theme=dark&animation=glow&color=%2310b981" alt="code" />
 
 **Programming Languages**
 - C
