@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/darwinbh/darwinbh/main/assets/banner(1).svg" width="100%" alt="Neji, Software Engineering Student at 1337, 42 Network" />
+<img src="https://raw.githubusercontent.com/darwinbh/darwinbh/main/banner%20(1).svg" width="100%" alt="Neji, Software Engineering Student at 1337, 42 Network" />
 
 <br/>
 
