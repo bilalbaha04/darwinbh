@@ -25,6 +25,7 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56&animation=glow" alt="javascript" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56&animation=glow" alt="python" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=56&animation=glow" alt="linux" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=glow" alt="html5" />
 
 **Programming Languages**
 - C
