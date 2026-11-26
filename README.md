@@ -23,13 +23,13 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 ## 🛠️ Technologies & Skills
 
 **Programming Languages**
--C
--C++
--Shell / Bash
--Python
--HTML
--CSS
--JavaScript
+- C
+- C++
+- Shell / Bash
+- Python
+- HTML
+- CSS
+- JavaScript
 
 **Systems & Development**
 - Unix / Linux
