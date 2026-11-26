@@ -1,6 +1,7 @@
-<div align="center">
 
-# Neji
+<div align="center">
+  <img src="https://raw.githubusercontent.com/darwinbh/darwinbh/main/assets/banner.svg" width="100%" alt="Neji, Software Engineering Student at 1337" />
+</div>
 
 ### Software Engineering Student at 1337 | 42 Network
 
