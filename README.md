@@ -22,10 +22,11 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 
 ## 🛠️ Technologies & Skills
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56&animation=glow" alt="javascript" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56&animation=glow" alt="python" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=56&animation=glow" alt="linux" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=glow" alt="javascript" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&animation=glow" alt="python" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=48&animation=glow" alt="linux" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=glow" alt="html5" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=48&animation=glow" alt="css3" />
 
 **Programming Languages**
 - C
