@@ -30,6 +30,7 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 <img src="https://www.readmecodegen.com/api/social-icon?name=c&animation=glow&color=%233b82f6" alt="c" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&animation=glow" alt="gnubash" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=fishshell&size=48&animation=glow" alt="fishshell" />
+![memory](https://www.readmecodegen.com/api/social-icon?name=memory&animation=glow)
 
 **Programming Languages**
 - C
