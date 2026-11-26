@@ -29,7 +29,7 @@ I enjoy exploring how software works, understanding systems from the ground up, 
 <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=48&animation=glow" alt="css3" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=c&animation=glow&color=%233b82f6" alt="c" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&animation=glow" alt="gnubash" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=fishshell&size=96&animation=glow" alt="fishshell" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=fishshell&size=48&animation=glow" alt="fishshell" />
 
 **Programming Languages**
 - C
